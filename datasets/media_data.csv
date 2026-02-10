@@ -1,0 +1,62 @@
+media_name,category,genre,main_lead,gender,artstyle,fanserviced,story_impact,design_complexity,popularity
+Fruits Basket,Shoujo,Romance,Kind,Female,shoujo,NIL,5,0,5
+Solo Leveling,Manwha,System,Determined,Male,manwha,4,2,4,4
+Demon Slayer,Shonen,Action,Kind,Male,impactful,3,5,4,5
+Jujutsu Kaisen,Shonen,Action,Innocent,Male,impactful,NIL,5,5,5
+Attack on Titan,Shonen,Action,Determined,Male,impactful,NIL,5,3,5
+One Piece,Shonen,Adventure,Cheerful,Male,cartoony,5,5,4,5
+Frieren: Beyond Journey's End,Shonen,Fantasy,Stoic,Female,calm,2,5,4,4
+Vinland Saga,Seinen,Fantasy,Determined,Male,impactful,NIL,5,3,3
+Spy x Family ,Shonen,Slice of Life,Cheerful,Female,impactful,NIL,4,3,4
+Link Click,Donghua,System,Cheerful,Male,impactful,NIL,5,4,4
+Hell's Paradise,Shonen,Action,Stoic,Male,impactful,4,4,5,3
+OSHI NO KO,Seinen,Psychological,Stoic,Male,impactful,4,3,3,3
+Bleach,Shoujo,Action,Determined,Male,impactful,5,5,5,5
+Pokémon,Shonen,Adventure,Determined,Male,impactful,NIL,4,2,5
+One Punch Man,Shonen,Action,Stoic,Male,impactful,5,4,3,4
+Bungo Stray Dogs,Seinen,Action,Kind,Male,impactful,NIL,4,5,3
+GACHIAKUTA,Shonen,Action,Emotional,Male,impactful,2,5,5,3
+Chainsaw Man,Shonen,Action,Naive,Male,impactful,4,4,4,5
+Blue Period,Seinen,Life,Determined,Male,impactful,NIL,5,2,3
+Hunter × Hunter,Shonen,Action,Innocent,Male,impactful,2,4,4,5
+Fire Force,Shonen,Action,Naive,Male,impactful,5,3,3,3
+A Sign of Affection,Shoujo,Romance,Innocent,Female,shoujo,NIL,3,2,4
+Tokyo Revengers,Shonen,System,Kind,Male,impactful,NIL,3,1,3
+Fullmetal Alchemist: Brotherhood,Shonen,Fantasy,Determined,Male,impactful,3,5,3,3
+My Hero Academia,Shonen,Action,Kind,Male,impactful,5,4,4,5
+Blue Exorcist,Shonen,Action,Innocent,Male,impactful,4,2,2,2
+Moriarty the Patriot,Shonen,Psychological,Smart,Male,calm,NIL,4,3,4
+The Promised Neverland,Shonen,Horror,Kind,Female,calm,NIL,5,2,3
+Tower of God,Manwha,System,Innocent,Male,impactful,4,5,3,3
+JoJo's Bizarre Adventure,Shonen,Action,Determined,Male,unique,2,5,5,5
+To Be Hero,Donghua,System,Kind,Male,unique,NIL,5,5,5
+From Me to You,Shoujo,Romance,Innocent,Female,shoujo,NIL,2,2,4
+Orange,Seinen,Romance,Kind,Female,shoujo,NIL,4,1,2
+Your Lie in April,Shonen,Romance,Kind,Male,shoujo,NIL,4,1,3
+Haikyu!!,Shonen,Sports,Cheerful,Male,impactful,NIL,3,2,4
+Blue Spring Ride,Shoujo,Romance,Innocent,Female,shoujo,NIL,2,2,4
+Nana,Shoujo,Psychological,Kind,Female,shoujo,2,4,5,5
+Ouran High School Host Club,Shoujo,School-life,Innocent,Female,90s,NIL,3,4,5
+Heaven Official's Blessing,Donghua,Fantasy,Kind,Male,calm,2,3,5,3
+Buddy Daddies,Slice-of-life,Slice of Life,Cheerful,Male,cartoony,NIL,3,2,3
+Toilet-Bound Hanako-Kun,Shonen,Romance,Cheerful,Female,unique,NIL,4,5,4
+Free!,Slice-of-life,Sports,Stoic,Male,calm,4,2,4,2
+Kamisama Kiss,Shoujo,Romance,Cheerful,Female,90s,NIL,3,4,3
+Love Through a Prism,Shoujo,Romance,Cheerful,Female,90s,NIL,4,5,3
+Tamon's B-Side,Shoujo,Romance,Cheerful,Female,impactful,2,4,4,3
+Skip and Loafer,Seinen,School-life,Innocent,Female,calm,NIL,2,2,3
+Lord of Mysteries,Donghua,Fantasy,Determined,Male,unique,NIL,4,4,3
+Dr. Stone,Shonen,School-life,Smart,Male,unique,5,4,4,3
+Gintama,Shonen,Comedy,Complex,Male,cartoony,2,3,3,5
+The Apothecary Diaries,Seinen,Drama,Stoic,Female,impactful,4,4,5,4
+Horimiya,Shoujo,Romance,Determined,Female,shoujo,NIL,2,2,3
+Wind Breaker,Shonen,Action,Determined,Male,impactful,2,3,4,3
+In the Clear Moonlit Dusk,Shoujo,Romance,Innocent,Female,shoujo,NIL,2,4,3
+Phantom Busters,Shonen,School-life,Smart,Male,unique,NIL,4,5,3
+Gokurakugai,Shonen,Action,Cheerful,Male,unique,3,4,5,3
+Blue Lock,Shonen,Sports,Smart,Male,unique,2,5,4,5
+SK8 the Infinity,Shonen,Sports,Cheerful,Male,average,2,2,4,3
+Kuroko's Basketball,Shonen,Sports,Stoic,Male,average,2,3,4,3
+The Fragrant Flower Blooms with Dignity,Shoujo,School-life,Kind,Male,average,NIL,3,2,4
+Mashle: Magic and Muscles,Shonen,Fantasy,Stoic,Male,average,1,2,4,2
+Dandadan,Shonen,Action,Kind,Male,unique,4,3,4,5
