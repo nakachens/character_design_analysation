@@ -21,4 +21,5 @@ found really important stuff that can help me advance my career, as i want to ma
 ### i wanna get better, make beautiful art alongside all the cool skills i learn along the journey!
 
 and again, **i did this!!** IM SO PROUD OF MYSELF!! i hope everyone will like it too as much a i do~
-thank you so much for reading up to here! i hope everyone had fun watching the presentation and reading the notebook! hehe~
+OH and here's the link to the notebook! [click meee!](https://github.com/nakachens/character_design_analysation/blob/main/character_design_analysation.ipynb)
+thank you sooo much for reading up to here! i hope everyone had fun watching the presentation and reading the notebook! hehe~
